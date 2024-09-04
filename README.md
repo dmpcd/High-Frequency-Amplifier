@@ -103,9 +103,6 @@ The project was successfully completed within the given timeframe. Despite some 
 4. **Testing**: 
    - Use the listed components and equipment to build the physical prototype and verify the results as described.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## References
 
